@@ -15,7 +15,7 @@ Code Examples: Practical implementations of algorithms, data structures, and tec
   This space demonstrates the practical application of theories covered in Software Engineering, Database Management, Programming Languages, and Informational Systems.
 
 
-  Tradução Rápida (para sua referência):
+  Tradução:
 Descrição: Este repositório serve como uma coleção centralizada dos meus trabalhos acadêmicos, projetos e atividades produzidos durante o curso de tecnologia em Análise e Desenvolvimento de Sistemas (ADS) na FATEC São Caetano do Sul (SCS).
 Objetivo: O objetivo deste repositório é rastrear minha evolução técnica e teórica, documentando a aplicação dos conceitos aprendidos em vários semestres e disciplinas.
 Conteúdo Inclui: Trabalhos e Atividades, Projetos Interdisciplinares (PIs), Provas e Avaliações, e Exemplos de Código.
